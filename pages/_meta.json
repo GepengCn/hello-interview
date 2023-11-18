@@ -1,5 +1,6 @@
 {
   "index": "Introduction",
+  "HashMap":"HashMap",
   "about": {
     "title": "About",
     "type": "page"
