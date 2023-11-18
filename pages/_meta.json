@@ -1,6 +1,7 @@
 {
   "index": "Introduction",
-  "HashMap":"HashMap",
+  "hashmap":"HashMap",
+  "concurrent":"Concurrent",
   "about": {
     "title": "About",
     "type": "page"

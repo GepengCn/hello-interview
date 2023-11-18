@@ -1,0 +1,9 @@
+{
+  "feature": "并发编程三个重要特性",
+  "synchronized":"synchronized 是什么？有什么用？synchronized 底层原理了解吗？JDK1.6 之后的 synchronized 底层做了哪些优化？",
+  "reentrantLock":"ReentrantLock 是什么？synchronized 和 ReentrantLock 有什么区别？",
+  "threadLocal":"ThreadLocal是什么？有什么用？原理了解吗？它的内存泄露问题是怎么导致的？",
+  "threadpool":"什么是线程池?为什么要用线程池？如何创建线程池？为什么不推荐使用内置线程池？线程池常见参数有哪些？如何解释？线程池的饱和策略有哪些？线程池常用的阻塞队列有哪些？线程池处理任务的流程了解吗？如何给线程池命名？如何设定线程池的大小？如何动态修改线程池的参数？",
+  "future":"Future 类有什么用？Callable 和 Future 有什么关系？CompletableFuture 类有什么用？",
+  "aqs":"AQS 是什么？AQS 的原理是什么？Semaphore 有什么用？Semaphore 的原理是什么？CountDownLatch 有什么用？CountDownLatch 的原理是什么？用过 CountDownLatch 么？什么场景下用的？CyclicBarrier 有什么用？CyclicBarrier 的原理是什么？"
+}

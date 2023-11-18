@@ -10,6 +10,7 @@
     "expandthe":"怎么扩容",
     "equalshashcode":"HashMap为什么重写equals之后，必须重写hashcode",
     "lru":"LinkedHashMap怎么实现有序，有哪些顺序，LRU顺序是什么？算法原理是什么？",
-    "put":"描述下hashmap的put操作",
-    "concurrentmap":"ConcurrentHashMap描述下？jdk8前后有什么变化？怎么保证的线程安全？"
+    "put":"描述下HashMap的put操作",
+    "concurrentmap":"ConcurrentHashMap描述下？jdk8前后有什么变化？怎么保证的线程安全？",
+    "2mi":"HashMap的长度为什么是2的幂次方"
 }
