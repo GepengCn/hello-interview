@@ -1,0 +1,14 @@
+{
+    "hashmap": "HashMap简介",
+    "hashmapext":"JDK8前后的变化以及如何保证顺序和线程安全",
+    "expand":"JDK8之后扩容机制怎么优化的",
+    "disturbed":"什么是扰动函数,怎么实现的",
+    "linkedlist":"为什么需要链表",
+    "rbtree":"为什么要用红黑树？红黑树是什么？红黑树需要满足什么条件？有什么优势？与平衡二叉树的区别？使用场景？",
+    "tail":"为什么改为尾插法，头插法有什么弊端",
+    "threshold":"链表和红黑树转换的阈值是多少，为什么不一样",
+    "expandthe":"怎么扩容",
+    "equalshashcode":"HashMap为什么重写equals之后，必须重写hashcode",
+    "lru":"LinkedHashMap怎么实现有序，有哪些顺序，LRU顺序是什么？算法原理是什么？",
+    "put":"描述下hashmap的put操作"
+}
